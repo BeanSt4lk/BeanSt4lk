@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BeanSt4lk
-- 👀 I’m interested in Learning, Gaming, and Anime.
+- 👋 Hi, I’m @BeanSt4lk, or Kevin.
+- 👀 I’m interested in Programming, Data, and Video Games.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any sort of beginner-intermediate programs.
 - 📫 How to reach me kokennon@gmail.com
 
 <!---
